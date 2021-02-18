@@ -3,3 +3,5 @@ Este es un archivo plano
 Seguimos avanzando
 
 Nuevo archivo
+
+Este es un nuevo cambio
